@@ -9,7 +9,7 @@
 <p>This is a sample Java 8 web application deployed on Tomcat using Maven.</p>
 
 <ul>
-    <li><a href="welcome">View Sample Account Details</a></li>
+    <li><a href="welcome">View Sample Account satish Details</a></li>
 </ul>
 
 </body>
